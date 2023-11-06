@@ -1,7 +1,7 @@
 <h1>Python: Create New Folder by Year</h1>
 
 <h2>Description</h2>
-Hytek Team/Meet Manager are two software applications I regularly use for submitting swimming meet entries and interacting with swim meets. I have created a Python script that creates new folders by year to better organize the files I regularly create using Hytek Team/Meet Manager. Instead of manually creating the folders for each year for four directories, I can use this script to automate this process. Within each year folder are two more folders, one of each gender for the boys' and girls' high school swimming seasons.
+Hytek Team/Meet Manager are two software applications I regularly use for interacting with swim meets and submitting meet entries. Instead of manually creating the folders for each year for four directories, which is a very time consuming process, I use this script to automate this process. I have created a Python script that creates new folders by year to better organize the files I regularly create using Hytek Team/Meet Manager. Within each year folder are two more folders, one of each gender for the boys' and girls' high school swimming seasons.
 <br />
 
 
