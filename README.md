@@ -10,4 +10,4 @@ Hytek Team/Meet Manager are two software applications I regularly use for submit
 - <b>Python</b>
 - <b>Visual Studio Code</b>
 
-<h2>Script walk-through:</h2>
+<h2>Script:</h2>
